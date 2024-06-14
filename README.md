@@ -1,7 +1,9 @@
 # DM-News-Recommendation-Prediction
 
 主題：新聞推薦預測
+
 目標：預測使用者是否會點擊新聞
+
 使用模型：BERT
 
 train data:
